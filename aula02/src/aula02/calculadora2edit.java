@@ -1,8 +1,8 @@
-package aula_02;
+package aula02;
  
 import java.util.Scanner;
  
-public class Calculadora {
+public class calculadora2edit {
  
 	public static void main(String[] args) {
 		
