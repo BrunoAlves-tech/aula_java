@@ -19,7 +19,7 @@ public class exercicio3 {
 		float descontos = leia.nextFloat();
 		float salarioliquido = salariobruto + adicionalnoturno + (horasextras*5) - descontos;
 		System.out.printf("Salario Liquido:%.2f",salarioliquido);
-	
+		
 		
 	}
 	

@@ -16,7 +16,7 @@ public class exercicio1 {
 		
 		novosalario = salario + abono;
 		System.out.printf("Mostrar novo salario %.2f" ,novosalario);
-		
+	
 		
 	
 	}
